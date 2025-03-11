@@ -119,14 +119,14 @@ Concluí o ensino médio na Etec Armando Pannunzio, juntamente com o curso de Au
     align="left" 
     alt="GitHub Stats" 
     title="GitHub Stats"
-    height="200px" 
+    height="150px" 
     src="https://github-readme-stats.vercel.app/api?username=Cello-GR&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/
+/>
     <img 
     align="left" 
     alt="GitHub Stats" 
     title="GitHub Stats"
-    height="200px" 
+    height="150px" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cello-GR&theme=tokyonight&alayout=compact&custom_title=Tecnologias&langs_count=5"
     />
 </p>
