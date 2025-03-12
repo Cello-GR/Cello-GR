@@ -2,7 +2,7 @@
 
 **`Técnico em Automação Industrial`**
 
-Me chamo Gustavo Marcelo, tenho 22 anos, e atualmente moro em Sorocaba.<br>
+Me chamo Gustavo Marcelo, tenho 21 anos, e atualmente moro em Sorocaba.<br>
 Concluí o ensino médio na Etec Armando Pannunzio, juntamente com o curso de Automação Industrial. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC Sorocaba. Curto muito estudar sobre tecnologia e trabalho com manutenção Industrial na Purem by Eberspaecher. <br>
 
 <p align="left">
